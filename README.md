@@ -38,7 +38,8 @@
 
 &nbsp;
 
-![Josh's github stats!](https://github-readme-stats.vercel.app/api?username=JoshBolitho&theme=cobalt) [![Josh's top languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshBolitho&langs_count=3&theme=cobalt)](https://github.com/joshBolitho/github-readme-stats)
+[![Josh's top languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshBolitho&theme=cobalt)](https://github.com/joshBolitho/github-readme-stats)
+![Josh's github stats!](https://github-readme-stats.vercel.app/api?username=JoshBolitho&theme=cobalt) 
 
 &nbsp;
 
