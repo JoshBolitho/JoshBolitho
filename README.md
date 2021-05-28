@@ -25,8 +25,9 @@
 </div>
 
 ## Current Projects:
-### CodeBot, a language project on Facebook that aims to make coding more accessible to beginners. Follow my profile to see it when it's public!
-### [My Website, joshbolitho.com](https://joshbolitho.com/)
+
+### - CodeBot, a language project on Facebook that aims to make coding more accessible to beginners. Follow my profile to see it when it's public!
+### - [My Website, joshbolitho.com](https://joshbolitho.com/)
 
 ## Links
 📧 Contact me at jsjbolitho@gmail.com
@@ -35,7 +36,10 @@
 
 🎵 Check out my [Spotify](https://open.spotify.com/user/12176109613?si=f9081f9c5f8a4796)!
 
+&nbsp;
 
 ![Josh's github stats!](https://github-readme-stats.vercel.app/api?username=JoshBolitho&theme=cobalt) [![Josh's top languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshBolitho&langs_count=3&theme=cobalt)](https://github.com/joshBolitho/github-readme-stats)
+
+&nbsp;
 
 ![Construction](https://images2.minutemediacdn.com/image/upload/c_fit,f_auto,fl_lossy,q_auto,w_728/v1555999902/shape/mentalfloss/construction_8.gif)
