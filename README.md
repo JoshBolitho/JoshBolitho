@@ -1,4 +1,18 @@
 # 🤠 Howdy, visitor number ![Visitor Count](https://profile-counter.glitch.me/JoshBolitho/count.svg)
+
+## Current Projects:
+
+### - CodeBot, a language project on Facebook that aims to make coding more accessible to beginners. Follow my profile to see it when it's public!
+### - [My Website, joshbolitho.com](https://joshbolitho.com/)
+
+## Links
+📧 Contact me at jsjbolitho@gmail.com
+
+🌐 Visit [JoshBolitho.com](https://www.joshbolitho.com)!
+
+🎵 Check out my [Spotify](https://open.spotify.com/user/12176109613?si=f9081f9c5f8a4796)!
+
+
 ## Top projects
 ### [FactApp](https://github.com/JoshBolitho/FactApp), a [Facebook bot](https://www.facebook.com/FactBotMarkov/) that posts randomly generated facts every 30 minutes!
 <a href="https://www.facebook.com/FactBotMarkov/">
@@ -16,27 +30,13 @@
 
 ### [MarkovBoy](https://github.com/JoshBolitho/MarkovBoy), A Discord bot that learns to speak like you by using markov chains!
 <div>
-  <img src="https://user-images.githubusercontent.com/17404588/120015260-40ede980-c037-11eb-884d-6358fe03ae4a.JPG" width="auto" height="80" />
-  <img src="https://user-images.githubusercontent.com/17404588/120015268-421f1680-c037-11eb-9fd0-15f18b018154.JPG" width="auto" height="80" />
-  <img src="https://user-images.githubusercontent.com/17404588/120015274-43504380-c037-11eb-9bdf-7a30703d9e6f.JPG" width="auto" height="80" />
-  <img src="https://user-images.githubusercontent.com/17404588/120015277-43e8da00-c037-11eb-8e12-ce58063b0b1d.JPG" width="auto" height="80" />
-  <img src="https://user-images.githubusercontent.com/17404588/120015269-42b7ad00-c037-11eb-8fce-17613b3cbb5b.JPG" width="auto" height="80" />
-  <img src="https://user-images.githubusercontent.com/17404588/120015280-43e8da00-c037-11eb-9226-c19eca5615e8.JPG" width="auto" height="80" />
+  <img src="https://user-images.githubusercontent.com/17404588/120015260-40ede980-c037-11eb-884d-6358fe03ae4a.JPG" width="auto" height="70" />
+  <img src="https://user-images.githubusercontent.com/17404588/120015268-421f1680-c037-11eb-9fd0-15f18b018154.JPG" width="auto" height="70" />
+  <img src="https://user-images.githubusercontent.com/17404588/120015274-43504380-c037-11eb-9bdf-7a30703d9e6f.JPG" width="auto" height="70" />
+  <img src="https://user-images.githubusercontent.com/17404588/120015277-43e8da00-c037-11eb-8e12-ce58063b0b1d.JPG" width="auto" height="70" />
+  <img src="https://user-images.githubusercontent.com/17404588/120015269-42b7ad00-c037-11eb-8fce-17613b3cbb5b.JPG" width="auto" height="70" />
+  <img src="https://user-images.githubusercontent.com/17404588/120015280-43e8da00-c037-11eb-9226-c19eca5615e8.JPG" width="auto" height="70" />
 </div>
-
-## Current Projects:
-
-### - CodeBot, a language project on Facebook that aims to make coding more accessible to beginners. Follow my profile to see it when it's public!
-### - [My Website, joshbolitho.com](https://joshbolitho.com/)
-
-## Links
-📧 Contact me at jsjbolitho@gmail.com
-
-🌐 Visit [JoshBolitho.com](https://www.joshbolitho.com)!
-
-🎵 Check out my [Spotify](https://open.spotify.com/user/12176109613?si=f9081f9c5f8a4796)!
-
-&nbsp;
 
 [![Josh's top languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshBolitho&theme=cobalt)](https://github.com/joshBolitho/github-readme-stats)
 ![Josh's github stats!](https://github-readme-stats.vercel.app/api?username=JoshBolitho&theme=cobalt) 
