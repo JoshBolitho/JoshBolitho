@@ -10,9 +10,6 @@
 
 🌐 Visit [JoshBolitho.com](https://www.joshbolitho.com)!
 
-🎵 Check out my [Spotify](https://open.spotify.com/user/12176109613?si=f9081f9c5f8a4796)!
-
-
 ## Top projects
 ### [FactApp](https://github.com/JoshBolitho/FactApp), a [Facebook bot](https://www.facebook.com/FactBotMarkov/) that posts randomly generated facts every 30 minutes!
 <a href="https://www.facebook.com/FactBotMarkov/">
