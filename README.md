@@ -1,9 +1,12 @@
 # 🤠 Howdy, visitor number ![Visitor Count](https://profile-counter.glitch.me/JoshBolitho/count.svg)
 
-## Current Projects:
+## Current Project:
 
-### - CodeBot, a language project on Facebook that aims to make coding more accessible to beginners. Follow my profile to see it when it's public!
-### - [My Website, joshbolitho.com](https://joshbolitho.com/)
+### [CodeBot](https://github.com/JoshBolitho/CodeBot), a language project on Facebook that turns a Facebook comments secion into an interactive coding playground! 
+
+### [Check it out on Facebook!](https://www.facebook.com/CodeBotOfficial/)
+
+<img width="279" alt="hello world" src="https://user-images.githubusercontent.com/17404588/123983562-13220900-da18-11eb-9818-610564a17fe4.PNG">
 
 ## Links
 📧 Contact me at jsjbolitho@gmail.com
@@ -11,6 +14,7 @@
 🌐 Visit [JoshBolitho.com](https://www.joshbolitho.com)!
 
 ## Top projects
+
 ### [FactApp](https://github.com/JoshBolitho/FactApp), a [Facebook bot](https://www.facebook.com/FactBotMarkov/) that posts randomly generated facts every 30 minutes!
 <a href="https://www.facebook.com/FactBotMarkov/">
   
@@ -24,6 +28,7 @@
   <img src="https://user-images.githubusercontent.com/17404588/120011628-9ffd2f80-c032-11eb-8f86-4f6462402d68.png" width="200"height="auto" />
 </a>
 
+&nbsp;
 
 ### [MarkovBoy](https://github.com/JoshBolitho/MarkovBoy), A Discord bot that learns to speak like you by using markov chains!
 <div>
@@ -34,6 +39,8 @@
   <img src="https://user-images.githubusercontent.com/17404588/120015269-42b7ad00-c037-11eb-8fce-17613b3cbb5b.JPG" width="auto" height="70" />
   <img src="https://user-images.githubusercontent.com/17404588/120015280-43e8da00-c037-11eb-9226-c19eca5615e8.JPG" width="auto" height="70" />
 </div>
+
+&nbsp;
 
 [![Josh's top languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshBolitho&theme=cobalt)](https://github.com/joshBolitho/github-readme-stats)
 ![Josh's github stats!](https://github-readme-stats.vercel.app/api?username=JoshBolitho&theme=cobalt) 
