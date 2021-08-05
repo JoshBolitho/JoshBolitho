@@ -6,7 +6,7 @@
 
 ### [Check it out on Facebook!](https://www.facebook.com/CodeBotOfficial/)
 
-<img width="482" alt="a" src="https://user-images.githubusercontent.com/17404588/127153720-215c145e-e140-4353-bd90-e444d706b0cd.png"><img width="482" alt="a" src="https://user-images.githubusercontent.com/17404588/127153741-10f8c63e-d604-47e5-ba71-db22a3aefca4.png">
+<img width="350" alt="a" src="https://user-images.githubusercontent.com/17404588/127153720-215c145e-e140-4353-bd90-e444d706b0cd.png"><img width="350" alt="a" src="https://user-images.githubusercontent.com/17404588/127153741-10f8c63e-d604-47e5-ba71-db22a3aefca4.png">
 
 ## Links
 📧 Contact me at jsjbolitho@gmail.com
