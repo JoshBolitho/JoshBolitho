@@ -1,5 +1,10 @@
 # 🤠 Howdy, visitor number ![Visitor Count](https://profile-counter.glitch.me/JoshBolitho/count.svg)
 
+## Links
+📧 Contact me at jsjbolitho@gmail.com
+
+🌐 Visit [JoshBolitho.com](https://www.joshbolitho.com)!
+
 ## Current Project:
 
 ### [CodeBot](https://github.com/JoshBolitho/CodeBot), a language project on Facebook that turns a Facebook comments secion into an interactive coding playground! 
@@ -8,10 +13,6 @@
 
 <img width="350" alt="a" src="https://user-images.githubusercontent.com/17404588/127153720-215c145e-e140-4353-bd90-e444d706b0cd.png"><img width="350" alt="a" src="https://user-images.githubusercontent.com/17404588/127153741-10f8c63e-d604-47e5-ba71-db22a3aefca4.png">
 
-## Links
-📧 Contact me at jsjbolitho@gmail.com
-
-🌐 Visit [JoshBolitho.com](https://www.joshbolitho.com)!
 
 ## Top projects
 
