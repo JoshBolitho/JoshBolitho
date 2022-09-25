@@ -7,7 +7,7 @@
 
 ## Current Project:
 
-### [CodeBot](https://github.com/JoshBolitho/CodeBot), a language project on Facebook that turns a Facebook comments secion into an interactive coding playground! 
+### [CodeBot](https://github.com/JoshBolitho/CodeBot), a language project on Facebook that turns a Facebook comments section into an interactive coding playground! 
 
 ### [Check it out on Facebook!](https://www.facebook.com/CodeBotOfficial/)
 
