@@ -7,12 +7,9 @@
 
 ## Current Project:
 
-### [CodeBot](https://github.com/JoshBolitho/CodeBot), a language project on Facebook that turns a Facebook comments section into an interactive coding playground! 
+### [Spotify-Utilities](https://github.com/JoshBolitho/Spotify-Utilities), a website with some handy tools using the Spotify API.
 
-### [Check it out on Facebook!](https://www.facebook.com/CodeBotOfficial/)
-
-<img width="350" alt="a" src="https://user-images.githubusercontent.com/17404588/127153720-215c145e-e140-4353-bd90-e444d706b0cd.png"><img width="350" alt="a" src="https://user-images.githubusercontent.com/17404588/127153741-10f8c63e-d604-47e5-ba71-db22a3aefca4.png">
-
+&nbsp;
 
 ## Top projects
 
@@ -40,6 +37,14 @@
   <img src="https://user-images.githubusercontent.com/17404588/120015269-42b7ad00-c037-11eb-8fce-17613b3cbb5b.JPG" width="auto" height="70" />
   <img src="https://user-images.githubusercontent.com/17404588/120015280-43e8da00-c037-11eb-9226-c19eca5615e8.JPG" width="auto" height="70" />
 </div>
+
+&nbsp;
+
+### [CodeBot](https://github.com/JoshBolitho/CodeBot), a language project on Facebook that turns a Facebook comments section into an interactive coding playground! 
+
+### [Check it out on Facebook!](https://www.facebook.com/CodeBotOfficial/)
+
+<img width="350" alt="a" src="https://user-images.githubusercontent.com/17404588/127153720-215c145e-e140-4353-bd90-e444d706b0cd.png"><img width="350" alt="a" src="https://user-images.githubusercontent.com/17404588/127153741-10f8c63e-d604-47e5-ba71-db22a3aefca4.png">
 
 &nbsp;
 
