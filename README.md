@@ -5,6 +5,8 @@
 
 🌐 Visit [JoshBolitho.com](https://www.joshbolitho.com)!
 
+&nbsp;
+
 ## Most Recent Project:
 
 ### [Spotify-Utilities](https://github.com/JoshBolitho/Spotify-Utilities), a website with some handy tools using the Spotify API.
