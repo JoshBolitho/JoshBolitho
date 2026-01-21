@@ -1,7 +1,6 @@
 # 🤠 Howdy, visitor number ![Visitor Count](https://profile-counter.glitch.me/JoshBolitho/count.svg)
 
 ## Links
-📧 Contact me at jsjbolitho@gmail.com
 
 🌐 Visit [JoshBolitho.com](https://www.joshbolitho.com)!
 
