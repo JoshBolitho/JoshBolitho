@@ -49,9 +49,4 @@
 
 &nbsp;
 
-[![Josh's top languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshBolitho&theme=cobalt)](https://github.com/joshBolitho/github-readme-stats)
-![Josh's github stats!](https://github-readme-stats.vercel.app/api?username=JoshBolitho&theme=cobalt) 
-
-&nbsp;
-
 ![Construction](https://images2.minutemediacdn.com/image/upload/c_fit,f_auto,fl_lossy,q_auto,w_728/v1555999902/shape/mentalfloss/construction_8.gif)
