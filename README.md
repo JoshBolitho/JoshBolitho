@@ -1,4 +1,4 @@
-# 🤠 Howdy, visitor number ![Visitor Count](https://profile-counter.glitch.me/JoshBolitho/count.svg)
+# 🤠 Howdy, visitor
 
 ## Links
 
